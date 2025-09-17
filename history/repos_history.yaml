@@ -2079,3 +2079,59 @@ repos:
     info: Growmi
     developer: KAKAOYS
     developer_id: "181993318"
+  - repo: org.scilab.www
+    info: 科学计算软件
+    developer: guanzi008
+    developer_id: "20619190"
+  - repo: org.mozilla.firefox-nal.linyaps
+    info: 火狐浏览器国际版
+    developer: ice909
+    developer_id: "59855569"
+  - repo: io.github.dmarked
+    info: markdown editor based on dtk
+    developer: wineee
+    developer_id: "22803888"
+  - repo: com.jianguoyun.nutstore
+    info: 坚果云。任何设备，随时随地实现文件共享
+    developer: myml
+    developer_id: "13045857"
+  - repo: io.github.deltachat-desktop.linyaps
+    info: 基于电子邮件的即时通讯软件
+    developer: ice909
+    developer_id: "59855569"
+  - repo: cn.org.linyaps.preloader
+    info: A preloader for accelerating application launching speed
+    developer: ComixHe
+    developer_id: "54773474"
+  - repo: arise-linux-graphics-driver-dri
+    info: Glenfly Tech Co., Ltd. Graphics drivers
+    developer: dengbo11
+    developer_id: "79958313"
+  - repo: com.windsurf.editor
+    info: The Windsurf Editor is built to keep you in flow state. Instant, invaluable\nAI developer assistance where you want it, when you want it.\n
+    developer: reddevillg
+    developer_id: "2016229"
+  - repo: com.plantuml.gpl
+    info: PlantUML is a highly versatile tool that facilitates the rapid and straightforward creation of a wide array of diagrams.\n
+    developer: reddevillg
+    developer_id: "2016229"
+  - repo: com.calibre-ebook.calibre
+    info: calibre is a powerful and easy to use e-book manager.
+    developer: reddevillg
+    developer_id: "2016229"
+  - repo: org.sumatrapdfreader
+    info: 一个PDF阅读器
+    developer: myml
+    developer_id: "13045857"
+  - repo: io.github.res-download
+    info: 爱享素材下载器，视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+    developer: dengbo11
+    developer_id: "79958313"
+  - repo: cn.org.linyaps.builder.utils
+    info: Utils for ll-builder
+    developer: dengbo11
+    developer_id: "79958313"
+  - repo: io.element.desktop
+    info: matrix客户端
+    developer: myml
+    developer_id: "13045857"
